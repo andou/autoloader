@@ -1,6 +1,6 @@
-# Autoloader
+# PHP Autoloader
 
-A simple class for class autoloading based on classes namespaces
+A simple PHP class for PHP class autoloading based on classes namespaces.
 
 ## Installation
 
@@ -24,6 +24,7 @@ Here is a minimal example of a `composer.json` file that just defines a dependen
 ```    
 
 ## Usage Examples
+You can use this autoloading class in your project simply specifying the path from which the Autoloader should fetch for classes
 
 ```php
 require_once './vendor/autoload.php';
