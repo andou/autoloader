@@ -1,6 +1,6 @@
 <?php
 
-namespace Andou;
+namespace Andou\Autoloader;
 
 /**
  * Your own personal Autoloader.
